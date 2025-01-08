@@ -38,11 +38,6 @@ The dataset used for this project can be accessed from an external source (e.g.,
 - Matplotlib
 - Seaborn
 
-Install the dependencies using:
-```bash
-pip install -r requirements.txt
-```
-
 ## Methodology
 1. **Data Preprocessing**:
    - Image resizing and normalization.
